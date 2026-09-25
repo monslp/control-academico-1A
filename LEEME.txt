@@ -1,0 +1,8 @@
+CONTROL ACADÉMICO 1°A V3
+- Incluye 39 alumnos y sus IDs QR.
+- Escaneo por cámara con html5-qrcode.
+- Asistencia automática por fecha/hora.
+- Evita duplicar asistencia el mismo día.
+- Tareas, trabajos y calificaciones.
+- Datos guardados en el navegador.
+IMPORTANTE: para cámara en celular, publica la app en HTTPS. Abrir un archivo local file:// no es suficiente para permisos de cámara en muchos navegadores.
